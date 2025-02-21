@@ -8,6 +8,6 @@ These files are just simplifications of the `bac120_metadata.tsv.gz` provided in
 
 # GECCO weights 
 
-As of Feb 2025, it also contains a plain text file containing weight scores for Pfam domains by GECCO. This is for planned incorporation into zol v1.5.9. If you use this functionality, please cite: 
+As of Feb 2025, it also contains a plain text file containing weight scores for Pfam domains by GECCO. This is for planned incorporation into zol v1.5.9. Version 0.9.10 of GECCO was used. If you use this functionality, please cite: 
 
 [Accurate de novo identification of biosynthetic gene clusters with GECCO](https://www.biorxiv.org/content/10.1101/2021.05.03.442509v1.full) by Carroll, Larralde, Fleck et al. 2021
